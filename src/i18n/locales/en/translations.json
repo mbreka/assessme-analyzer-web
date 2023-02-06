@@ -1,0 +1,12 @@
+{
+    "home": "Home EN",
+    "page2": "Page 2",
+    "file": {
+        "opened": "Opened",
+        "analyzed": "Analyzed"
+    },
+    "drop": {
+        "title":"Drag assessme files here or click to select manually",
+        "info": "Attach as many files as you like, each file should not exceed 5mb"
+    }
+}

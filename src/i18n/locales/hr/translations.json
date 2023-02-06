@@ -1,0 +1,12 @@
+{
+    "home": "Home HR",
+    "page2": "Page 2",
+    "file": {
+        "opened": "Otvoreno",
+        "analyzed": "Analizirano"
+    },
+    "drop": {
+        "title":"Ispusti assessme datoteku ovdje ili klikni za odabir",
+        "info": "Priloži koliko datoteka želiš, svaka datoteka može imati do 5mb"
+    }
+}
