@@ -1,12 +1,37 @@
 {
     "home": "Home HR",
     "page2": "Page 2",
+    "title": "Analizator",
     "file": {
         "opened": "Otvoreno",
         "analyzed": "Analizirano"
     },
     "drop": {
         "title":"Ispusti assessme datoteku ovdje ili klikni za odabir",
-        "info": "Priloži koliko datoteka želiš, svaka datoteka može imati do 5mb"
+        "info": "Učitaj koliko datoteka želiš, svaka datoteka može imati do 5mb"
+    },
+    "steps": [
+        {
+            "title": "Učitaj",
+            "subtitle": "Otvori assessme datoteku",
+            "action": "Učitaj"
+        },{
+            "title": "Analiziraj",
+            "subtitle": "Započni analizu",
+            "action": "Analiziraj"
+        },{
+            "title": "Pregledaj",
+            "subtitle": "Vizualiziraj podatke",
+            "action": "Spremi"
+        },{
+            "title": "Spremi",
+            "subtitle": "Preuzmi analizu",
+            "action": "Kreni od početka"
+        }
+    ],
+    "about": {
+        "title": "O Nama",
+        "content": "Croatian lorem ipsum Amet illo rerum sequi quod sit fuga eligendi exercitationem ab excepturi error saepe suscipit repudiandae dignissimos vitae deleniti voluptates sunt voluptatum velit veritatis ea, sint culpa sapiente? Ullam eveniet iusto illum.",
+        "copyright": "SmoothSoft"
     }
 }

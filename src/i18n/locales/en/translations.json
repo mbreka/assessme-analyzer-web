@@ -1,12 +1,37 @@
 {
     "home": "Home EN",
     "page2": "Page 2",
+    "title": "Analyzer",
     "file": {
         "opened": "Opened",
         "analyzed": "Analyzed"
     },
     "drop": {
-        "title":"Drag assessme files here or click to select manually",
+        "title": "Drag assessme files here or click to select manually",
         "info": "Attach as many files as you like, each file should not exceed 5mb"
+    },
+    "steps": [
+        {
+            "title": "Upload",
+            "subtitle": "Load assessme files",
+            "action": "Upload"
+        },{
+            "title": "Analyze",
+            "subtitle": "Start analysis",
+            "action": "Analyze"
+        },{
+            "title": "Review",
+            "subtitle": "Visualize data",
+            "action": "Save"
+        },{
+            "title": "Save",
+            "subtitle": "Download analysis",
+            "action": "Start again"
+        }
+    ],
+    "about": {
+        "title": "About Us",
+        "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Amet illo rerum sequi quod sit fuga eligendi exercitationem ab excepturi error saepe suscipit repudiandae dignissimos vitae deleniti voluptates sunt voluptatum velit veritatis ea, sint culpa sapiente? Ullam eveniet iusto illum.",
+        "copyright": "SmoothSoft"
     }
 }

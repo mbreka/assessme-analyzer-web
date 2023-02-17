@@ -2,7 +2,7 @@ import { ActionIcon, Text } from '@mantine/core';
 import { useTranslation } from 'react-i18next';
 
 function ChangeLanguageButton() {
-  const { i18n } = useTranslation('common');
+  const { i18n } = useTranslation();
 
   const toggleLanguage = () => {
     i18n.changeLanguage(i18n.language === 'en' ? 'hr' : 'en');
